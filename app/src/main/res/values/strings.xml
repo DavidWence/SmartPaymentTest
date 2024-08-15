@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Simple Planets App - Smart Payment</string>
+
+    <!-- registry -->
+    <string name="registry_title">Registro</string>
+    <string name="registry_description">Para continuar necesitas registrarte</string>
+    <string name="registry_name">Nombre</string>
+    <string name="registry_middle_name">Apellido Paterno</string>
+    <string name="registry_last_name">Apellido Materno</string>
+    <string name="registry_birth_date">Fecha de nacimiento</string>
+    <string name="registry_country">País</string>
+    <string name="registry_send">Ingresar</string>
+
+    <string name="country_mx">México</string>
+    <string name="country_us">Estados Unidos</string>
+    <string name="country_cl">Colombia</string>
+    <string name="country_na">Otro</string>
+
+    <string-array name="countries">
+        <item>México</item>
+        <item>Estados Unidos</item>
+        <item>Colombia</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
